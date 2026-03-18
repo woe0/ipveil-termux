@@ -8,7 +8,7 @@ Automatic IP rotator for Termux — powered by Tor & Proxy
 ![Platform](https://img.shields.io/badge/platform-termux-green?style=flat-square)
 ![Root](https://img.shields.io/badge/root-not%20required-brightgreen?style=flat-square)
 
-![preview](sc.jpe)
+![preview](sc.jpg)
 
 </div>
 
