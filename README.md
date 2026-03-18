@@ -8,7 +8,7 @@ Automatic IP rotator for Termux — powered by Tor & Proxy
 ![Platform](https://img.shields.io/badge/platform-termux-green?style=flat-square)
 ![Root](https://img.shields.io/badge/root-not%20required-brightgreen?style=flat-square)
 
-![preview](sc.jpeg)
+![preview](sc.jpe)
 
 </div>
 
@@ -49,11 +49,20 @@ requests  (pip)
 
 ```bash
 pkg update && pkg upgrade -y
+```
+```bash
 pkg install python tor curl torsocks git -y
+```
+```bash
 pip install requests
-
+```
+```bash
 git clone https://github.com/woe0/ipveil
+```
+```bash
 cd ipveil
+```
+```bash
 python ipveil.py
 ```
 
