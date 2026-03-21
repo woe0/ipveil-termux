@@ -68,23 +68,6 @@ python ipveil.py
 
 ---
 
-## Usage
-
-```bash
-python ipveil.py
-```
-
-```
-[1] Tor Rotation     - every 10s    | stable
-[2] Tor Custom       - your choice  | flexible
-[3] Proxy Rotation   - every Xs     | thousands of IPs
-[4] torsocks Setup   - route tools through Tor
-[5] Show Real IP
-[0] Exit
-```
-
----
-
 ## Running tools through Tor
 
 Start rotation first (option 1 or 2), then open a new Termux window:
@@ -127,7 +110,7 @@ pkill tor && tor &
 
 **requests not found**
 ```bash
-pip install requests --break-system-packages
+pip install requests
 ```
 
 ---
