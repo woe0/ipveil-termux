@@ -57,10 +57,10 @@ pkg install python tor curl torsocks git -y
 pip install requests
 ```
 ```bash
-git clone https://github.com/woe0/ipveil
+git clone https://github.com/woe0/ipveil-termux.git
 ```
 ```bash
-cd ipveil
+cd ipveil-termux
 ```
 ```bash
 python ipveil.py
