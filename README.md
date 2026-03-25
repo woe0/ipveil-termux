@@ -6,7 +6,6 @@ Automatic IP rotator for Termux — powered by Tor & Proxy
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-termux-green?style=flat-square)
-![Root](https://img.shields.io/badge/root-not%20required-brightgreen?style=flat-square)
 
 ![preview](ss.jpg)
 
