@@ -100,7 +100,7 @@ ipveil sends a `HUP` signal to the Tor process, which forces it to build a new c
 
 **Tor not connecting**
 ```bash
-pkill tor && tor &
+pkill tor && tor 
 # wait ~30 seconds then try again
 ```
 
